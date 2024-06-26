@@ -1,2 +1,2 @@
-export * from "./fruit";
-export * from "./tree";
+export { Fruit, Farmer } from "./fruit";
+export { Tree } from "./tree";

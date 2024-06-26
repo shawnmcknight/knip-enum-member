@@ -1,1 +1,1 @@
-export * from "./types";
+export { Fruit, Farmer, Tree } from "./types";
