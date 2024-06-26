@@ -1,6 +1,5 @@
 import { Fruit } from "."; // shows unused exported enum members
-// import { Fruit } from './types'; // works
-// import { Fruit } from "./types/fruit"; // works
+// import { Fruit } from "./fruit"; // works
 
 const fruitBasket = {
   apple: Fruit.apple,
